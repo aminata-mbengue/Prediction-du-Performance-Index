@@ -8,6 +8,7 @@ Original file is located at
 """
 
 # Importer Gradio et charger les éléments sauvegardés
+import streamlit as st
 import gradio as gr
 import joblib
 import numpy as np
